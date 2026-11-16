@@ -9,6 +9,7 @@ Selamat datang di ruang dokumentasi pribadi **Satrijo Oeiboeo**. Repositori ini 
 #### 🐧 Debian GNU/Linux
 * [Manajemen Paket & Optimasi Dasar Debian](./debian-linux/manajemen-paket-apt.md)
 * [Konfigurasi Dasar Firewall Menggunakan UFW di Debian](./debian-linux/konfigurasi-firewall-ufw.md)
+* [Memahami Struktur Direktori Sistem Berkas Linux (FHS)](./debian-linux/struktur-direktori-linux.md)
 
 #### ⚙️ Skrip & Otomatisasi Terminal
 * [Otomatisasi Pencadangan Dotfiles ke GitHub](./skrip-otomatisasi/backup-dotfiles.md)
