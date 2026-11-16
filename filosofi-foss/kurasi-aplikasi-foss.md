@@ -45,4 +45,4 @@ Sebelum memasang sebuah aplikasi baru, ada tiga kriteria utama yang selalu dijad
 
 ## Catatan Penutup
 * Seluruh aplikasi di atas dapat dipasang langsung melalui repositori resmi Debian (`apt`) maupun melalui **Flathub** untuk versi terbaru.
-* Dokumentasi ini merupakan bagian dari arsip pribadi di [*Jejak Pikiran & Catatan Digital*](https://github.com).
+* Dokumentasi ini merupakan bagian dari arsip pribadi di [*Jejak Pikiran & Catatan Digital*](https://github.com/oeiboeo).
