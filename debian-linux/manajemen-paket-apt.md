@@ -51,4 +51,4 @@ sudo apt clean
 
 ## Catatan Tambahan
 * Selalu periksa daftar paket yang akan dihapus sebelum menekan tombol **Y** saat menjalankan perintah `autoremove`.
-* Dokumentasi ini merupakan bagian dari arsip pribadi di [*Jejak Pikiran & Catatan Digital*](https://github.com).
+* Dokumentasi ini merupakan bagian dari arsip pribadi di [*Jejak Pikiran & Catatan Digital*](https://github.com/oeiboeo).
