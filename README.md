@@ -13,7 +13,7 @@ Selamat datang di ruang dokumentasi pribadi **Satrijo Oeiboeo**. Repositori ini 
 * [Otomatisasi Pencadangan Dotfiles ke GitHub](./skrip-otomatisasi/backup-dotfiles.md)
 
 #### 🌱 Filosofi & Kurasi FOSS
-* *(Segera hadir)* Daftar Perangkat Lunak Bebas Pengganti Aplikasi Harian
+* [Daftar Perangkat Lunak Bebas Pengganti Aplikasi Harian](./filosofi-foss/kurasi-aplikasi-foss.md)
 
 ---
 
