@@ -18,6 +18,8 @@ Selamat datang di ruang dokumentasi pribadi **Satrijo Oeiboeo**. Repositori ini 
 
 #### 🌱 Filosofi & Kurasi FOSS
 * [Daftar Perangkat Lunak Bebas Pengganti Aplikasi Harian](./filosofi-foss/kurasi-aplikasi-foss.md)
+* [Mengenal Jenis-Jenis Lisensi Perangkat Lunak Bebas (GPL, MIT, Apache)](./filosofi-foss/mengenal-lisensi-foss.md)
+* [Alat Produktivitas Berbasis Teks (Plain Text) untuk Jangka Panjang](./filosofi-foss/produktivitas-plain-text.md)
 
 ---
 
