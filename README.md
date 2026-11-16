@@ -10,7 +10,7 @@ Selamat datang di ruang dokumentasi pribadi **Satrijo Oeiboeo**. Repositori ini 
 * [Manajemen Paket & Optimasi Dasar Debian](./debian-linux/manajemen-paket-apt.md)
 
 #### ⚙️ Skrip & Otomatisasi Terminal
-* *(Segera hadir)* Otomatisasi Pencadangan Dotfiles ke GitHub
+* [Otomatisasi Pencadangan Dotfiles ke GitHub](./skrip-otomatisasi/backup-dotfiles.md)
 
 #### 🌱 Filosofi & Kurasi FOSS
 * *(Segera hadir)* Daftar Perangkat Lunak Bebas Pengganti Aplikasi Harian
