@@ -24,3 +24,9 @@ Selamat datang di ruang dokumentasi pribadi **Satrijo Oeiboeo**. Repositori ini 
 ---
 
 *Dikelola secara terbuka sebagai bagian dari ekosistem perangkat lunak bebas (FOSS).*
+
+---
+
+### 📄 Lisensi
+Seluruh catatan dan skrip di dalam repositori ini dilisensikan di bawah **[CC BY-SA 4.0](./LICENSE)**.
+
