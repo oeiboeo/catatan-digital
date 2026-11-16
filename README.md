@@ -14,6 +14,7 @@ Selamat datang di ruang dokumentasi pribadi **Satrijo Oeiboeo**. Repositori ini 
 #### ⚙️ Skrip & Otomatisasi Terminal
 * [Otomatisasi Pencadangan Dotfiles ke GitHub](./skrip-otomatisasi/backup-dotfiles.md)
 * [Pembersihan Sistem & Pembaruan Paket Otomatis Satu Perintah](./skrip-otomatisasi/pembaruan-pembersihan-sistem.md)
+* [Menjadwalkan Tugas Rutin di Linux dengan Cron & Systemd Timers](./skrip-otomatisasi/penjadwalan-tugas-cron.md)
 
 #### 🌱 Filosofi & Kurasi FOSS
 * [Daftar Perangkat Lunak Bebas Pengganti Aplikasi Harian](./filosofi-foss/kurasi-aplikasi-foss.md)
