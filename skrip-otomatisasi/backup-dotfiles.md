@@ -76,4 +76,4 @@ chmod +x ~/backup-dotfiles.sh
 ## Catatan Keamanan
 * **Jangan pernah mencadangkan kunci privat** seperti isi folder `~/.ssh/` atau file `.env` yang berisi token rahasia ke repositori publik.
 * Pastikan repositori tujuan pencadangan diatur menjadi **Private** jika konfigurasi Anda memuat informasi sensitif atau alamat server pribadi.
-* Dokumentasi ini merupakan bagian dari arsip pribadi di [*Jejak Pikiran & Catatan Digital*](https://github.com).
+* Dokumentasi ini merupakan bagian dari arsip pribadi di [*Jejak Pikiran & Catatan Digital*](https://github.com/oeiboeo).
